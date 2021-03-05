@@ -3,7 +3,7 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import {App} from './CoronaTracker'
 // import {App_react} from './ReactUdemy'
-import {App_git} from './githubjobs'
+// import {App_git} from './githubjobs'
 
 
 //  ReactDOM.render(<App_react/>,document.getElementById('root'))
