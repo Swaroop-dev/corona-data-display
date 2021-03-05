@@ -1,0 +1,20 @@
+.container{
+    display:inline-block;
+    animation-duration: 5s;
+    box-shadow: 10px,5px,5px,#cccccc;
+    border: 2px solid #eee;
+    padding: 30px;
+    margin: 20px;
+    width: 200px;
+    text-align: center;
+    text-shadow: aqua;
+    height: auto;
+}
+
+.container1{
+    width: 300px;
+    height: 150px; 
+    justify-content: center  !important;
+    
+    
+}
